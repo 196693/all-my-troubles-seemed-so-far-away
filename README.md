@@ -16,3 +16,5 @@ pandas
 How to reproduce : run `main.py`
 
 Note : It can't generate two exact same result even with the same parameters, but with very small difference.
+
+Reference: https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
